@@ -1,0 +1,49 @@
+{
+  "id": "loi-n-2011-01-du-24-fevrier-2011-portant-code-des-telecommunications",
+  "type": "statute",
+  "title": "Loi n° 2011-01 du 24 février 2011 portant Code des Télécommunications",
+  "title_en": "Law No. 2011-01 of 24 February 2011 on Telecommunications Code",
+  "short_name": "Code Télécoms",
+  "status": "in_force",
+  "issued_date": "2011-02-24",
+  "in_force_date": "2011-02-24",
+  "url": "https://primature.sn/publications/lois-et-reglements",
+  "description": "Code des télécommunications du Sénégal",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article premier - Objet",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "La présente loi fixe le cadre juridique des activités de télécommunications au Sénégal. Elle détermine les conditions générales d'établissement et d'exploitation des réseaux et services de télécommunications."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3 - Définitions",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "Au sens de la présente loi, on entend par : télécommunications : toute transmission, émission ou réception de signes, de signaux, d'écrits, d'images, de sons ou de renseignements de toute nature, par fil, optique, radioélectricité ou autres systèmes électromagnétiques."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6 - Autorité de régulation",
+      "chapter": "Titre 2 - Du cadre institutionnel",
+      "content": "L'Autorité de Régulation des Télécommunications et des Postes (ARTP) est chargée de la régulation du secteur des télécommunications."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20 - Protection des données",
+      "chapter": "Titre 4 - Des obligations des opérateurs",
+      "content": "Les opérateurs de télécommunications sont tenus de protéger la confidentialité des communications et des données personnelles de leurs abonnés."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "télécommunications",
+      "definition": "toute transmission, émission ou réception de signes, de signaux, d'écrits, d'images, de sons ou de renseignements de toute nature, par fil, optique, radioélectricité ou autres systèmes électromagnétiques",
+      "source_provision": "art3"
+    }
+  ]
+}

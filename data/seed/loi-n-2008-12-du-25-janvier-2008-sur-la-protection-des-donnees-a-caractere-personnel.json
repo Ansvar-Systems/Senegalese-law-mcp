@@ -1,0 +1,125 @@
+{
+  "id": "loi-n-2008-12-du-25-janvier-2008-sur-la-protection-des-donnees-a-caractere-personnel",
+  "type": "statute",
+  "title": "Loi n° 2008-12 du 25 janvier 2008 sur la Protection des données à caractère personnel",
+  "title_en": "Law No. 2008-12 of 25 January 2008 on the Protection of Personal Data",
+  "short_name": "Loi 2008-12 (DPA)",
+  "status": "in_force",
+  "issued_date": "2008-01-25",
+  "in_force_date": "2008-01-25",
+  "url": "https://primature.sn/publications/lois-et-reglements",
+  "description": "Loi sénégalaise sur la protection des données à caractère personnel, créant la Commission des Données Personnelles (CDP)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article premier - Objet",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "La présente loi s'applique à tout traitement de données à caractère personnel effectué par une personne physique ou morale, de droit public ou de droit privé, dès lors que le responsable du traitement est établi sur le territoire du Sénégal ou que le traitement, bien que le responsable ne soit pas établi sur le territoire du Sénégal, porte sur des données de personnes résidant au Sénégal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2 - Définitions",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "Au sens de la présente loi, on entend par : « données à caractère personnel » : toute information relative à une personne physique identifiée ou identifiable directement ou indirectement, par référence à un numéro d'identification ou à un ou plusieurs éléments propres à son identité physique, physiologique, génétique, psychique, culturelle, sociale ou économique ; « traitement de données à caractère personnel » : toute opération ou ensemble d'opérations portant sur de telles données, quel que soit le procédé utilisé ; « responsable du traitement » : la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui, seul ou conjointement avec d'autres, détermine les finalités et les moyens du traitement de données à caractère personnel ; « sous-traitant » : toute personne physique ou morale, publique ou privée, qui traite des données à caractère personnel pour le compte du responsable du traitement ; « personne concernée » : toute personne physique qui fait l'objet d'un traitement de données à caractère personnel."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4 - Principes de traitement",
+      "chapter": "Titre 2 - Conditions de licéité des traitements",
+      "content": "Les données à caractère personnel doivent être : collectées pour des finalités déterminées, explicites et légitimes et ne pas être traitées ultérieurement de manière incompatible avec ces finalités ; adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées ; exactes, complètes et, si nécessaire, mises à jour ; conservées pendant une durée qui n'excède pas la durée nécessaire aux finalités pour lesquelles elles sont collectées et traitées."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5 - Consentement",
+      "chapter": "Titre 2 - Conditions de licéité des traitements",
+      "content": "Le traitement des données à caractère personnel n'est légitime que si la personne concernée a donné son consentement, ou si le traitement est nécessaire au respect d'une obligation légale, à l'exécution d'une mission d'intérêt public, à l'exécution d'un contrat, ou à la réalisation de l'intérêt légitime poursuivi par le responsable du traitement."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6 - Données sensibles",
+      "chapter": "Titre 2 - Conditions de licéité des traitements",
+      "content": "Il est interdit de collecter ou de traiter des données à caractère personnel qui révèlent l'origine raciale, ethnique, les opinions politiques, les convictions religieuses ou philosophiques, l'appartenance syndicale, la santé ou la vie sexuelle de la personne concernée, sauf exceptions prévues par la loi."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8 - Droit d'accès",
+      "chapter": "Titre 3 - Droits de la personne concernée",
+      "content": "Toute personne physique justifiant de son identité a le droit d'obtenir du responsable du traitement la confirmation que des données à caractère personnel la concernant font ou ne font pas l'objet d'un traitement, ainsi que des informations relatives aux finalités du traitement, aux catégories de données concernées et aux destinataires."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9 - Droit de rectification",
+      "chapter": "Titre 3 - Droits de la personne concernée",
+      "content": "Toute personne physique justifiant de son identité peut exiger du responsable du traitement que soient, selon les cas, rectifiées, complétées, mises à jour, verrouillées ou effacées les données à caractère personnel la concernant, qui sont inexactes, incomplètes, équivoques, périmées."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10 - Droit d'opposition",
+      "chapter": "Titre 3 - Droits de la personne concernée",
+      "content": "Toute personne physique a le droit de s'opposer, pour des motifs légitimes, à ce que des données à caractère personnel la concernant fassent l'objet d'un traitement. Elle peut, sans avoir à justifier d'un motif, s'opposer à ce que les données la concernant soient utilisées à des fins de prospection."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14 - Sécurité des traitements",
+      "chapter": "Titre 4 - Obligations du responsable du traitement",
+      "content": "Le responsable du traitement est tenu de prendre toute précaution utile, au regard de la nature des données et des risques présentés par le traitement, pour préserver la sécurité des données et, notamment, empêcher qu'elles soient déformées, endommagées, ou que des tiers non autorisés y aient accès."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17 - Transferts internationaux",
+      "chapter": "Titre 5 - Transfert de données vers un pays tiers",
+      "content": "Le responsable d'un traitement ne peut transférer des données à caractère personnel vers un État n'assurant pas un niveau de protection adéquat. Le caractère adéquat du niveau de protection offert par un État s'apprécie en fonction de la nature des données, de la finalité du traitement, de la durée du traitement, des mesures de sécurité et de la législation applicable dans l'État concerné."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20 - Commission des Données Personnelles",
+      "chapter": "Titre 6 - Commission des Données Personnelles",
+      "content": "Il est créé une autorité administrative indépendante dénommée Commission des Données Personnelles (CDP). La CDP est chargée de veiller à ce que les traitements de données à caractère personnel soient mis en œuvre conformément à la présente loi."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article 31 - Sanctions pénales",
+      "chapter": "Titre 7 - Sanctions",
+      "content": "Est puni d'un emprisonnement de un an à sept ans et d'une amende de 500 000 à 10 000 000 de francs CFA ou de l'une de ces deux peines seulement, quiconque aura procédé ou fait procéder à un traitement de données à caractère personnel sans le consentement de la personne concernée, en violation des dispositions de la présente loi."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "données à caractère personnel",
+      "definition": "toute information relative à une personne physique identifiée ou identifiable directement ou indirectement, par référence à un numéro d'identification ou à un ou plusieurs éléments propres à son identité",
+      "source_provision": "art2"
+    },
+    {
+      "term": "traitement de données à caractère personnel",
+      "definition": "toute opération ou ensemble d'opérations portant sur de telles données, quel que soit le procédé utilisé",
+      "source_provision": "art2"
+    },
+    {
+      "term": "responsable du traitement",
+      "definition": "la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui détermine les finalités et les moyens du traitement",
+      "source_provision": "art2"
+    },
+    {
+      "term": "sous-traitant",
+      "definition": "toute personne physique ou morale qui traite des données à caractère personnel pour le compte du responsable du traitement",
+      "source_provision": "art2"
+    },
+    {
+      "term": "personne concernée",
+      "definition": "toute personne physique qui fait l'objet d'un traitement de données à caractère personnel",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-90-06-portant-reglementation-bancaire",
+  "type": "statute",
+  "title": "Loi n° 90-06 portant réglementation bancaire",
+  "title_en": "Law No. 90-06 on Banking Regulation",
+  "short_name": "Loi 90-06 (Banques)",
+  "status": "in_force",
+  "issued_date": "1990-06-26",
+  "in_force_date": "1990-06-26",
+  "url": "https://primature.sn/publications/lois-et-reglements",
+  "description": "Loi portant réglementation bancaire au Sénégal",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article premier - Champ d'application",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "Sont considérées comme établissements de crédit, les personnes morales qui effectuent à titre de profession habituelle des opérations de banque. Les opérations de banque comprennent la réception de fonds du public, les opérations de crédit et la mise à la disposition de la clientèle de moyens de paiement."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4 - Agrément",
+      "chapter": "Titre 2 - De l'accès à la profession",
+      "content": "Nul ne peut exercer l'activité bancaire sur le territoire du Sénégal sans avoir été préalablement agréé par le Ministre chargé des Finances, après avis conforme de la Commission Bancaire de l'UMOA."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10 - Secret bancaire",
+      "chapter": "Titre 3 - Du fonctionnement",
+      "content": "Tout membre d'un organe d'administration ou de direction d'un établissement de crédit, tout employé de celui-ci, est tenu au secret professionnel pour tout ce qui concerne les informations confidentielles qu'il détient du fait de ses fonctions."
+    }
+  ],
+  "definitions": []
+}

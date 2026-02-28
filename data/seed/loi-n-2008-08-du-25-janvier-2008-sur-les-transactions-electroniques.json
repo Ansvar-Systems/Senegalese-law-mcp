@@ -1,0 +1,61 @@
+{
+  "id": "loi-n-2008-08-du-25-janvier-2008-sur-les-transactions-electroniques",
+  "type": "statute",
+  "title": "Loi n° 2008-08 du 25 janvier 2008 sur les transactions électroniques",
+  "title_en": "Law No. 2008-08 of 25 January 2008 on Electronic Transactions",
+  "short_name": "Loi 2008-08 (E-Commerce)",
+  "status": "in_force",
+  "issued_date": "2008-01-25",
+  "in_force_date": "2008-01-25",
+  "url": "https://primature.sn/publications/lois-et-reglements",
+  "description": "Loi sénégalaise sur les transactions électroniques - commerce électronique et signature électronique",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article premier - Objet",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "La présente loi fixe le régime juridique applicable aux transactions électroniques, notamment le commerce électronique, la signature électronique et la cryptologie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3 - Signature électronique",
+      "chapter": "Titre 2 - De la signature électronique",
+      "content": "La signature électronique consiste en l'usage d'un procédé fiable d'identification garantissant son lien avec l'acte auquel elle s'attache. Lorsqu'elle est créée et vérifiée selon les conditions fixées par la présente loi, la signature électronique a la même valeur juridique qu'une signature manuscrite."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8 - Commerce électronique",
+      "chapter": "Titre 3 - Du commerce électronique",
+      "content": "Le commerce électronique est l'activité économique par laquelle une personne propose ou assure, à distance et par voie électronique, la fourniture de biens ou de services."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10 - Obligations du prestataire",
+      "chapter": "Titre 3 - Du commerce électronique",
+      "content": "Tout prestataire de services de commerce électronique doit fournir un accès facile, direct et permanent aux informations suivantes : son nom ou sa dénomination sociale, son adresse, ses coordonnées téléphoniques et électroniques, son numéro d'immatriculation au registre du commerce."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15 - Cryptologie",
+      "chapter": "Titre 4 - De la cryptologie",
+      "content": "L'utilisation de moyens de cryptologie est libre. Toutefois, la fourniture, l'importation et l'exportation de moyens de cryptologie sont soumises à déclaration préalable auprès de l'autorité compétente."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "signature électronique",
+      "definition": "procédé fiable d'identification garantissant le lien avec l'acte auquel elle s'attache",
+      "source_provision": "art3"
+    },
+    {
+      "term": "commerce électronique",
+      "definition": "activité économique par laquelle une personne propose ou assure, à distance et par voie électronique, la fourniture de biens ou de services",
+      "source_provision": "art8"
+    }
+  ]
+}

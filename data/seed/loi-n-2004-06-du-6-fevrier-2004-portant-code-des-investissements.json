@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-2004-06-du-6-fevrier-2004-portant-code-des-investissements",
+  "type": "statute",
+  "title": "Loi n° 2004-06 du 6 février 2004 portant Code des investissements",
+  "title_en": "Law No. 2004-06 of 6 February 2004 on the Investment Code",
+  "short_name": "Code des investissements",
+  "status": "in_force",
+  "issued_date": "2004-02-06",
+  "in_force_date": "2004-02-06",
+  "url": "https://primature.sn/publications/lois-et-reglements",
+  "description": "Code des investissements du Sénégal",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article premier - Objet",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "La présente loi fixe le régime de l'investissement au Sénégal. Elle a pour objet de promouvoir et d'encourager les investissements productifs au Sénégal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2 - Champ d'application",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "La présente loi s'applique aux entreprises qui investissent dans les activités de production de biens et de services au Sénégal, quels que soient leur secteur d'activité et leur nationalité."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4 - Garanties",
+      "chapter": "Titre 2 - Des garanties accordées aux investisseurs",
+      "content": "L'État garantit la liberté d'investir au Sénégal, le droit de propriété, la libre circulation des capitaux, la libre conversion des bénéfices et des dividendes, et la protection des investissements."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "loi-n-2008-11-du-25-janvier-2008-sur-la-cybercriminalite",
+  "type": "statute",
+  "title": "Loi n° 2008-11 du 25 janvier 2008 sur la cybercriminalité",
+  "title_en": "Law No. 2008-11 of 25 January 2008 on Cybercrime",
+  "short_name": "Loi 2008-11 (Cybercrime)",
+  "status": "in_force",
+  "issued_date": "2008-01-25",
+  "in_force_date": "2008-01-25",
+  "url": "https://primature.sn/publications/lois-et-reglements",
+  "description": "Loi sénégalaise sur la cybercriminalité - incrimination des infractions informatiques",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article premier - Objet",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "La présente loi a pour objet de définir les infractions liées aux technologies de l'information et de la communication et d'établir les règles de procédure applicables à la cybercriminalité."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2 - Accès frauduleux",
+      "chapter": "Titre 2 - Des infractions relatives aux systèmes informatiques",
+      "content": "Est puni d'un emprisonnement de six mois à trois ans et d'une amende de 1 000 000 à 10 000 000 de francs CFA ou de l'une de ces deux peines seulement quiconque accède ou tente d'accéder frauduleusement à tout ou partie d'un système informatique."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3 - Maintien frauduleux",
+      "chapter": "Titre 2 - Des infractions relatives aux systèmes informatiques",
+      "content": "Est puni des mêmes peines quiconque se maintient ou tente de se maintenir frauduleusement dans tout ou partie d'un système informatique."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4 - Atteinte à l'intégrité",
+      "chapter": "Titre 2 - Des infractions relatives aux systèmes informatiques",
+      "content": "Est puni d'un emprisonnement de un an à cinq ans et d'une amende de 5 000 000 à 50 000 000 de francs CFA quiconque a entravé ou faussé le fonctionnement d'un système informatique."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5 - Atteinte aux données",
+      "chapter": "Titre 2 - Des infractions relatives aux systèmes informatiques",
+      "content": "Est puni d'un emprisonnement de un an à cinq ans et d'une amende de 5 000 000 à 50 000 000 de francs CFA quiconque a introduit, modifié, supprimé ou rendu inopérant des données informatiques frauduleusement."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6 - Interception",
+      "chapter": "Titre 3 - Des infractions relatives aux données informatiques",
+      "content": "Est puni d'un emprisonnement de un an à cinq ans et d'une amende de 5 000 000 à 50 000 000 de francs CFA quiconque a intercepté frauduleusement, par des moyens techniques, des données informatiques lors de leur transmission."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7 - Falsification",
+      "chapter": "Titre 3 - Des infractions relatives aux données informatiques",
+      "content": "Est puni d'un emprisonnement de un an à cinq ans et d'une amende de 5 000 000 à 50 000 000 de francs CFA quiconque a falsifié des données informatiques de manière à altérer leur véracité."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8 - Fraude informatique",
+      "chapter": "Titre 3 - Des infractions relatives aux données informatiques",
+      "content": "Est puni d'un emprisonnement de un an à cinq ans et d'une amende de 5 000 000 à 50 000 000 de francs CFA quiconque a obtenu frauduleusement, pour soi-même ou pour autrui, un avantage quelconque, en introduisant, en altérant, en effacant ou en supprimant des données informatiques."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12 - Conservation des données",
+      "chapter": "Titre 4 - De la procédure",
+      "content": "Les fournisseurs d'accès et les fournisseurs d'hébergement sont tenus de conserver les données de connexion pendant une durée d'un an à compter de leur enregistrement."
+    }
+  ],
+  "definitions": []
+}

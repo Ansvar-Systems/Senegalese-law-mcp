@@ -1,0 +1,50 @@
+{
+  "id": "constitution-de-la-republique-du-senegal-du-22-janvier-2001",
+  "type": "statute",
+  "title": "Constitution de la République du Sénégal du 22 janvier 2001",
+  "title_en": "Constitution of the Republic of Senegal of 22 January 2001",
+  "short_name": "Constitution 2001",
+  "status": "in_force",
+  "issued_date": "2001-01-22",
+  "in_force_date": "2001-01-22",
+  "url": "https://primature.sn/publications/lois-et-reglements",
+  "description": "Constitution de la République du Sénégal",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article premier",
+      "chapter": "Titre premier - De l'État et de la Souveraineté",
+      "content": "La République du Sénégal est laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens, sans distinction d'origine, de race, de sexe, de religion. Elle respecte toutes les croyances."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7 - Liberté individuelle",
+      "chapter": "Titre 2 - Des libertés publiques et de la personne humaine",
+      "content": "La personne humaine est sacrée. Elle est inviolable. L'État a l'obligation de la respecter et de la protéger."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8 - Droits fondamentaux",
+      "chapter": "Titre 2 - Des libertés publiques et de la personne humaine",
+      "content": "La République du Sénégal garantit à tous les citoyens les libertés individuelles fondamentales, les droits économiques et sociaux ainsi que les droits collectifs."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13 - Droit de propriété",
+      "chapter": "Titre 2 - Des libertés publiques et de la personne humaine",
+      "content": "Le droit de propriété est garanti par la présente Constitution. Il ne peut y être porté atteinte que dans le cas de nécessité publique légalement constatée, sous réserve d'une juste et préalable indemnité."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article 25 - Liberté d'expression",
+      "chapter": "Titre 2 - Des libertés publiques et de la personne humaine",
+      "content": "Chacun a le droit d'exprimer et de diffuser librement ses opinions par la parole, la plume, l'image, la marche pacifique. Chacun a le droit de s'instruire sans entrave aux sources accessibles de la science et de la culture."
+    }
+  ],
+  "definitions": []
+}

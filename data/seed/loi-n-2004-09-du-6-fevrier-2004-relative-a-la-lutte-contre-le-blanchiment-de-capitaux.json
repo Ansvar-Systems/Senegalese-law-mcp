@@ -1,0 +1,42 @@
+{
+  "id": "loi-n-2004-09-du-6-fevrier-2004-relative-a-la-lutte-contre-le-blanchiment-de-capitaux",
+  "type": "statute",
+  "title": "Loi n° 2004-09 du 6 février 2004 relative à la lutte contre le blanchiment de capitaux",
+  "title_en": "Law No. 2004-09 of 6 February 2004 on Anti-Money Laundering",
+  "short_name": "LBC 2004-09",
+  "status": "in_force",
+  "issued_date": "2004-02-06",
+  "in_force_date": "2004-02-06",
+  "url": "https://primature.sn/publications/lois-et-reglements",
+  "description": "Loi relative à la lutte contre le blanchiment de capitaux au Sénégal",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article premier - Définition du blanchiment",
+      "chapter": "Titre 1 - Dispositions générales",
+      "content": "Constituent un blanchiment de capitaux, les actes ci-après, commis intentionnellement : la conversion ou le transfert de biens dans le but de dissimuler ou de déguiser l'origine illicite desdits biens."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5 - Obligation de vigilance",
+      "chapter": "Titre 2 - Des obligations de vigilance",
+      "content": "Les organismes financiers sont tenus d'identifier leurs clients et de vérifier leur identité lors de l'établissement de la relation d'affaires, lors de toute transaction d'un montant égal ou supérieur à 5 000 000 de francs CFA."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10 - Déclaration de soupçon",
+      "chapter": "Titre 3 - Des déclarations",
+      "content": "Les organismes financiers sont tenus de déclarer à la Cellule Nationale de Traitement des Informations Financières (CENTIF) les opérations suspectes."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "blanchiment de capitaux",
+      "definition": "la conversion ou le transfert de biens dans le but de dissimuler ou de déguiser l'origine illicite desdits biens",
+      "source_provision": "art1"
+    }
+  ]
+}

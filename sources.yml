@@ -4,29 +4,43 @@ mcp_name: "Senegal Law MCP"
 jurisdiction: "SN"
 
 sources:
-  - name: "Senegal Official Legal Database"
+  - name: "Senegal Government - Primature"
     authority: "Government of Senegal"
-    official_portal: "https://jo.gouv.sn"
-    canonical_identifier: "TBD"
+    official_portal: "https://primature.sn/publications/lois-et-reglements"
+    canonical_identifier: "primature.sn"
     retrieval_method: "HTML"
     api_documentation: "N/A"
-    update_frequency: "TBD"
-    last_ingested: "PENDING_FIRST_INGEST"
+    update_frequency: "As published"
+    last_ingested: "2026-02-28"
     license_or_terms:
       type: "Government Publication"
-      url: "https://jo.gouv.sn"
-      summary: "Official government legal database; legislation is public domain as government publication"
+      url: "https://primature.sn"
+      summary: "Official government legislation; public domain as government publication"
     coverage:
-      scope: "TBD -- update after census"
-      limitations: "TBD -- update after census"
+      scope: "30 key Senegalese laws (codes, organic laws, decrees)"
+      limitations: "Primary portal (jo.gouv.sn) frequently unreachable; PDF-only sources require OCR"
     languages:
-      - "en"
+      - "fr"
+
+  - name: "Africa Laws - Senegal"
+    authority: "Africa Laws (aggregator)"
+    official_portal: "https://www.africa-laws.org/Senegal.php"
+    canonical_identifier: "africa-laws.org"
+    retrieval_method: "PDF"
+    api_documentation: "N/A"
+    update_frequency: "Periodic"
+    last_ingested: "2026-02-28"
+    license_or_terms:
+      type: "Open Access"
+      url: "https://www.africa-laws.org"
+      summary: "Open access legal database for African legislation"
+    coverage:
+      scope: "35+ Senegalese laws across banking, commercial, civil, criminal, employment, family, IP, privacy, tax law"
+      limitations: "PDF format only; may not include most recent amendments"
+    languages:
+      - "fr"
 
 data_freshness:
   automated_checks: false
-  check_frequency: "TBD"
-  last_verified: "2026-02-27"
-
-# Notes:
-# - Source URL: jo.gouv.sn
-# - Update this file after completing census and first ingestion
+  check_frequency: "monthly"
+  last_verified: "2026-02-28"

@@ -2,34 +2,510 @@
   "id": "loi-n-90-06-portant-reglementation-bancaire",
   "type": "statute",
   "title": "Loi n° 90-06 portant réglementation bancaire",
-  "title_en": "Law No. 90-06 on Banking Regulation",
-  "short_name": "Loi 90-06 (Banques)",
+  "title_en": "Loi n° 90-06 portant réglementation bancaire",
+  "short_name": "Loi n° 90-06 portant réglementation b...",
   "status": "in_force",
-  "issued_date": "1990-06-26",
-  "in_force_date": "1990-06-26",
-  "url": "https://primature.sn/publications/lois-et-reglements",
-  "description": "Loi portant réglementation bancaire au Sénégal",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.africa-laws.org/Senegal/banking%20and%20finance%20law/Loi%2090-06%20portant%20r%C3%A9glementation%20bancaire.pdf",
+  "description": "",
   "provisions": [
     {
       "provision_ref": "art1",
+      "chapter": "Titre personnel - d'une infraction à la réglementation bancaire commise par cet > Chapitre 4 - du Titre IV .",
       "section": "1",
-      "title": "Article premier - Champ d'application",
-      "chapter": "Titre 1 - Dispositions générales",
-      "content": "Sont considérées comme établissements de crédit, les personnes morales qui effectuent à titre de profession habituelle des opérations de banque. Les opérations de banque comprennent la réception de fonds du public, les opérations de crédit et la mise à la disposition de la clientèle de moyens de paiement."
+      "title": "Article 1",
+      "content": "La présente loi s'applique aux banques et établissements financiers exerçant leur activité sur le territoire de la République du Sénégal, quels que soient leur statut juridique, le lieu de leur siège social ou de leur principal établissement et la nationalité des propriétaires de leur capital social ou de leurs dirigeants."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Titre personnel - d'une infraction à la réglementation bancaire commise par cet > Chapitre 4 - du Titre IV .",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Toutefois, la présente loi ne s'applique pas : • à la Banque Centrale des Etats de l'Afrique de l'Ouest, dénommée ci-après la Banque Centrale : • aux institutions financières internationales, ni aux institutions publiques étrangères d'aide ou de coopération, dont l'activité sur le territoire de la République du Sénégal est autorisée par des traités, accords ou conventions auxquels est partie la République du Sénégal ; • à l'Office des Postes et de la Caisse d'Epargne, sous réserve des dispositions de l'article 43. Les articles 20 à 22 de la présente loi ne s'appliquent pas aux banques et établissements financiers publics à statut spécial dont la liste sera arrêtée par le Conseil des Ministres de l'Union Monétaire Ouest Africaine."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Titre personnel - d'une infraction à la réglementation bancaire commise par cet > Chapitre 4 - du Titre IV .",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Sont considérées comme banques, les entreprises qui font profession habituelle de recevoir des fonds dont il peut être disposé par chèques ou virements et qu'elles envoient, pour leur propre compte ou pour le compte d'autrui, en opérations de crédit ou de placement."
     },
     {
       "provision_ref": "art4",
+      "chapter": "Titre personnel - d'une infraction à la réglementation bancaire commise par cet > Chapitre 4 - du Titre IV .",
       "section": "4",
-      "title": "Article 4 - Agrément",
-      "chapter": "Titre 2 - De l'accès à la profession",
-      "content": "Nul ne peut exercer l'activité bancaire sur le territoire du Sénégal sans avoir été préalablement agréé par le Ministre chargé des Finances, après avis conforme de la Commission Bancaire de l'UMOA."
+      "title": "Article 4",
+      "content": "Sont considérées comme établissements financiers les personnes physiques ou morales, qui font profession habituelle d'effectuer pour leur propre compte des opérations de crédit, de vente à crédit ou de change, ou qui reçoivent habituellement des fonds qu'elles emploient pour leur propre compte en opérations de placement, ou qui servent habituellement d'intermédiaires en tant que commissionnaires, courtiers ou autrement dans tout ou partie de ces opérations. 12"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Titre personnel - d'une infraction à la réglementation bancaire commise par cet > Chapitre 4 - du Titre IV .",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Sont considérées comme opérations de crédit les opérations de prêt, d'escompte, de prise en pension, d'acquisition de créances, de garantie, de financement de ventes à crédit et de crédit-bail. Sont considérées comme opérations de placement les prises de participation dans des entreprises existantes ou en formation et toutes acquisitions de valeurs mobilières émises par des personnes physiques ou privées."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Titre 2 - AGREMENT ET RETRAIT D'AGREMENT DES BANQUES ET > Chapitre 4 - du Titre IV .",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Ne sont pas considérés comme banques ou établissements financiers : a. les entreprises d'assurance et les organismes de retraite ; b. les notaires et les officiers ministériels qui en exercent les fonctions ; c. les agents de change. Toutefois, les entreprises, organismes et personnes visés au présent article sont soumis aux dispositions de l'article 65. ETABLISSEMENTS FINANCIERS"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Titre 2 - AGREMENT ET RETRAIT D'AGREMENT DES BANQUES ET > Chapitre 4 - du Titre IV .",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Nul ne peut, sans avoir été préalablement agréé et inscrit sur la liste des banques, exercer l'activité définie à l'article 3, ni se prévaloir de la qualité de banques ou de banquier, ni créer l'apparence de cette qualité, notamment par l'emploi de termes tels que banque, banquier ou bancaire, dans sa dénomination ou raison sociale, son nom commercial, sa publicité ou d'une manière quelconque dans son activité. Nul ne peut, sans avoir été préalablement agréé et inscrit sur la liste des établissements financiers, exercer l'une des activités définies à l'article 4 , ni se prévaloir de la qualité d'établissement financier, ni créer l'apparence de cette qualité, notamment par l'emploi de termes évoquant l'une des activités prévues à l'article 4, dans sa dénomination ou raison sociale, son nom commercial, sa publicité ou d'une manière quelconque dans son activité."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Titre 2 - AGREMENT ET RETRAIT D'AGREMENT DES BANQUES ET > Chapitre 4 - du Titre IV .",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les demandes d'agrément son adressées au Ministre des Finances et déposées auprès de la Banque Centrale qui les instruit. Celles-ci vérifie si les personnes physiques ou morales qui demandent l'agrément satisfont aux conditions et obligations prévues aux articles 14, 15, 13 18, 23, 24 et 26. Elle s'assure de l'adéquation de la forme juridique de l'entreprise à l'activité de banque ou d'établissement financier. Elle examine notamment le programme d'activités de cette entreprise et les moyens techniques et financiers qu'elle prévoit de mettre en œuvre. Elle apprécie également l'aptitude de l'entreprise requérante à réaliser ses objectifs de développement, dans des conditions compatibles avec le bon fonctionnement du système bancaire et une sécurité suffisante de la clientèle. Elle obtient tous renseignements sur la qualité des personnes ayant assuré l'apport des capitaux et, le cas échéant, sur celle de leurs garants ainsi que sur l'honorabilité et l'expérience des personnes appelées à diriger, administrer ou gérer la banque ou l'établissement financier et ses agences. Une instruction de la Banque Centrale déterminera les pièces qui doivent être jointes à la demande d'agrément."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Titre 2 - AGREMENT ET RETRAIT D'AGREMENT DES BANQUES ET > Chapitre 4 - du Titre IV .",
+      "section": "9",
+      "title": "Article 9",
+      "content": "L'agrément est prononcé par arrêté du Ministre des Finances, après avis conforme de la Commission Bancaire de l'Union Monétaire Ouest Africaine, ci-après dénommée la Commission Bancaire. L'agrément est réputé avoir été refusé s'il n'est pas prononcé dans un délai de six mois à compter de la réception de la demande par la Banque Centrale, sauf avis contraire donné au demandeur. L'agrément est constaté par l'inscription sur la liste des banques ou sur celle des établissements financiers. Ces listes sont établies et tenues à jour par la Commission Bancaire qui affecte un numéro d'inscription à chaque banque ou établissement financier. La liste des banques et celle des établissements financiers, ainsi que les modifications dont elles font l'objet, y compris les radiations, sont publiés au Journal Officiel."
     },
     {
       "provision_ref": "art10",
+      "chapter": "Titre 2 - AGREMENT ET RETRAIT D'AGREMENT DES BANQUES ET > Chapitre 4 - du Titre IV .",
       "section": "10",
-      "title": "Article 10 - Secret bancaire",
-      "chapter": "Titre 3 - Du fonctionnement",
-      "content": "Tout membre d'un organe d'administration ou de direction d'un établissement de crédit, tout employé de celui-ci, est tenu au secret professionnel pour tout ce qui concerne les informations confidentielles qu'il détient du fait de ses fonctions."
+      "title": "Article 10",
+      "content": "Les établissements financiers sont classés par décret en diverses catégories, compte tenu de leurs activités respectives. Les établissements financiers d'une même catégorie ne peuvent exercer les activités d'une autre catégorie sans une autorisation préalable accordée comme en matière d'agrément. Le retrait de cette autorisation est prononcé comme en matière de retrait d'agrément."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Titre 2 - AGREMENT ET RETRAIT D'AGREMENT DES BANQUES ET > Chapitre 4 - du Titre IV .",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Les banques et les établissements financiers doivent faire figurer leur numéro d'inscription sur la liste des banques ou sur celle des établissements financiers, dans les mêmes documents et sous peine des mêmes sanctions qu'en matière de registre du commerce. 14"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Titre 2 - AGREMENT ET RETRAIT D'AGREMENT DES BANQUES ET > Chapitre 4 - du Titre IV .",
+      "section": "12",
+      "title": "Article 12",
+      "content": "Le retrait d'agrément, à la demande de la banque ou de l'établissement financier intéressé ou lorsqu'il est constaté que ladite banque ou ledit établissement financier n'exerce plus aucune activité depuis au moins un an, est prononcé par arrêté du Ministre des Finances, après avis de la Commission Bancaire. Le retrait d'agrément pour infraction à la réglementation bancaire est prononcé dans les conditions prévues à l'article 47. Le retrait d'agrément est constaté par la radiation de la liste des banques ou de celle des établissements financiers."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Titre 3 - DIRIGEANTS ET PERSONNEL DES BANQUES ET ETABLISSEMENTS > Chapitre 4 - du Titre IV .",
+      "section": "13",
+      "title": "Article 13",
+      "content": "Les banques et les établissements financiers doivent cesser leur activité dans le délai fixé par la décision de retrait d'agrément. FINANCIERS"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Titre 3 - DIRIGEANTS ET PERSONNEL DES BANQUES ET ETABLISSEMENTS > Chapitre 4 - du Titre IV .",
+      "section": "14",
+      "title": "Article 14",
+      "content": "Nul ne peut diriger, administrer ou gérer une banque ou un établissement financier, ou une de leurs agences, s'il n'a pas la nationalité sénégalaise ou celle d'un pays membre de l'Union Monétaire Ouest Africaine, à moins qu'il ne jouisse, en vertu d'une convention d'établissement, d'une assimilation aux ressortissants sénégalais. Le Ministre des Finances peut accorder, sur avis conforme de la Commission Bancaire, des dérogations individuelles aux dispositions du présent article."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Titre 3 - DIRIGEANTS ET PERSONNEL DES BANQUES ET ETABLISSEMENTS > Chapitre 4 - du Titre IV .",
+      "section": "15",
+      "title": "Article 15",
+      "content": "Toute condamnation pour crime de droit commun, pour faux ou usage de faux en écriture publique, pour faux ou usage de faux en écriture privée, de commerce ou de banque, pour vol, pour escroquerie ou délits punis des peines de l'escroquerie ou délits punis des peines de d'escroquerie, pour abus de confiance, pour banqueroute, pour détournement de deniers publics, pour soustraction par dépositaire publique, pour extorsion de fonds ou valeurs, pour émission de chèques sans provision, pour infraction à la législation sur les changes, pour atteinte au crédit de l'Etat ou pour recel de choses obtenues à l'aide de ces infractions, ou toute condamnation pour infraction assimilée par la loi à l'une de celles énumérées ci- dessus, emporte de plein droit interdiction : • de diriger, administrer ou gérer une banque ou un établissement financier ou une de leurs agences ; 15 • d'exercer l'une des activités définies à l'article 4 ; • de proposer au public la création d'une banque ou d'un établissement financier. Toute condamnation pour tentative ou complicité dans la commission des infractions ci- dessus emporte la même interdiction. La même interdiction s'applique aux faillis non réhabilités, aux officiers ministériels destitués et aux dirigeants suspendus ou démis en application de l'article 47. Les interdictions ci-dessus s'appliquent de plein droit lorsque la condamnation, la faillite, la destitution, la suspension ou la démission a été prononcée à l'étranger. Dans ce cas, le ministère public ou l'intéressé peut saisir (le tribunal correctionnel) d'une demande tendant à faire constater que les conditions d'application des interdictions ci-dessus sont ou non réunies ; le tribunal statue après vérification de la régularité et de la légalité de la décision étrangère, l'intéressé dûment appelé en Chambre du Conseil. La décision ne peut faire l'objet que d'un recours en cassation. Lorsque la décision dont résulte l'une des interdictions visées au présent article est ultérieurement rapportée ou infirmée, l'interdiction cesse de plein droit, à moins que la nouvelle décision ne soit susceptible de voies de recours."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Titre 3 - DIRIGEANTS ET PERSONNEL DES BANQUES ET ETABLISSEMENTS > Chapitre 4 - du Titre IV .",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Quiconque contrevient à l'une des interdictions édictées par les articles 14 et 15 sera puni d'un emprisonnement d'un an à cinq ans et d'une amende de 2.000.000 à 5.000.000 de francs ou de l'une de ces deux peines seulement."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Titre 3 - DIRIGEANTS ET PERSONNEL DES BANQUES ET ETABLISSEMENTS > Chapitre 4 - du Titre IV .",
+      "section": "17",
+      "title": "Article 17",
+      "content": "Quiconque aura été condamné pour l'un des faits prévus à l'article 15, paragraphes 1 et 2, et à l'article 16 ne pourra être employé, à quelque titre que ce soit, par une banque ou un établissement financier. Les dispositions de l'article 15, paragraphes 4 et 5, sont applicables à cette interdiction. En cas d'infraction à cette interdiction, l'auteur est passible des peines prévues à l'article 16 et l'employeur, d'une amende de 5.000.000 à 10.000.000 de francs."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Titre 3 - DIRIGEANTS ET PERSONNEL DES BANQUES ET ETABLISSEMENTS > Chapitre 4 - du Titre IV .",
+      "section": "18",
+      "title": "Article 18",
+      "content": "Toute banque ou établissement financier doit déposer et tenir à jour auprès de la Commission Bancaire et du greffier chargé de la tenue du registre du commerce, la liste des personnes exerçant des fonctions de direction, d'administration ou de gérance de la banque ou de l'établissement financier ou de leurs agences. Tout projet de modification de la liste sus-visée doit être préalablement notifié à la Commission Bancaire. 16 Le greffier doit donner copie de la liste sus-visée et de ses modifications sous-huitaine, sur papier libre, au Procureur de la République."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 1 - forme juridique",
+      "section": "19",
+      "title": "Article 19",
+      "content": "Les personnes qui concourent à la direction, à l'administration, à la gérance, au contrôle ou au fonctionnement des banques et des établissements financiers sont tenues au secret professionnel, sous réserve des dispositions de l'article 42, dernier paragraphe. Il est interdit aux mêmes personnes d'utiliser les informations confidentielles dont elles ont connaissance dans le cadre de leur activité, pour réaliser directement ou indirectement des opérations pour leur propre compte ou en faire bénéficier d'autres personnes. FINANCIERS"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 1 - forme juridique",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Les banques doivent être constituées sous forme de société. Elles peuvent exceptionnellement revêtir la forme d'autres personnes morales. Celles qui ont leur siège social en République du Sénégal doivent être constituées sous forme de sociétés anonymes à capital fixe ou, par autorisation spéciale du Ministre des Finances donnée après avis conforme de la Commission Bancaire, sous forme de sociétés coopératives ou mutualistes à capital variable."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 1 - forme juridique",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Les établissements financiers qui ont leur siège social en République du Sénégal doivent être constitués sous forme de sociétés anonymes à capital fixe, de sociétés à responsabilité limitée ou de sociétés coopératives ou mutualistes à capital variable. Des décrets peuvent : • interdire aux personnes physiques d'exercer tout ou partie des activités définies à l'article 4 ; • préciser la forme juridique que doivent adopter les diverses catégories d'établissements financiers."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 2 - Capital et réserve spéciale",
+      "section": "22",
+      "title": "Article 22",
+      "content": "Les actions émises par les banques et établissements financiers ayant leur siège social en République du Sénégal doivent revêtir la forme nominative. 17"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 2 - Capital et réserve spéciale",
+      "section": "23",
+      "title": "Article 23",
+      "content": "Le capital social des banques ayant leur siège social en République du Sénégal ne peut être inférieur au montant minimum fixé par le Conseil des Ministres de l'Union. Le capital social des établissements financiers ayant leur siège social en République du Sénégal ne peut être inférieur au montant minimum fixé par décret pris après avis conforme de la Banque Centrale. Ce minimum peut être différent selon les diverses catégories d'établissements financiers. Toutefois, pour une banque ou un établissement financier donné, la décision d'agrément peut fixer un montant minimum supérieur à celui visé au paragraphe 1 ou au paragraphe 2 du présent article. Le capital social doit être intégralement libéré au jour de l'agrément de la banque ou de l'établissement financier à concurrence du montant minimum exigé dans la décision d'agrément. Le capital libéré doit rester à tout moment employé en République du Sénégal."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 2 - Capital et réserve spéciale",
+      "section": "24",
+      "title": "Article 24",
+      "content": "Les banques et établissements financiers dont le siège social est situé à l'étranger doivent justifier à tout moment d'une dotation employée en République du Sénégal au moins égale au montant minimum déterminé en application de l'article 23."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 2 - Capital et réserve spéciale",
+      "section": "25",
+      "title": "Article 25",
+      "content": "Les banques et établissements financiers qui doivent accroître leur capital social ou leur dotation pour se conformer à la réglementation en vigueur disposent d'un délai de six mois pour y procéder."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 2 - Capital et réserve spéciale",
+      "section": "26",
+      "title": "Article 26",
+      "content": "Sous réserve des dispositions de l'article 28, les fonds propres effectifs d'une banque ou d'un établissement financier doivent à tout moment être au moins égaux au montant minimum déterminé en application de l'article 23, sans pouvoir être inférieurs au minimum de fonds propres effectifs qui pourrait être rendu obligatoire en vertu de l'article 44. Une instruction de la Banque Centrale définit les fonds propres effectifs pour l'application du présent article et des articles 35 et 44."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 2 - Capital et réserve spéciale",
+      "section": "27",
+      "title": "Article 27",
+      "content": "Les banques et les établissements financiers dotés de la personnalité morale sont tenus de constituer une réserve spéciale, incluant toute réserve légale éventuellement exigée par les lois et règlements en vigueur, alimentée par un prélèvement annuel sur les bénéfices nets 18 réalisés, après imputation d'un éventuel report à nouveau déficitaire. Le montant de ce prélèvement est fixé, pour les banques et les diverses catégories d'établissement financiers, par une instruction de la Banque Centrale. La réserve spéciale des banques et établissements financiers visés à l'article 24 est calculée sur les bénéfices nets réalisés en République du Sénégal et s'ajoute à la dotation prévue audit article."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 3 - Autorisations diverses",
+      "section": "28",
+      "title": "Article 28",
+      "content": "Les établissements financiers qui n'ont pas la personnalité morale doivent justifier d'un cautionnement bancaire donné par une banque agréée dans l'un des Etats de l'Union Monétaire Ouest Africaine, pour une somme égale au montant minimum déterminé en application de l'article 23"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 3 - Autorisations diverses",
+      "section": "29",
+      "title": "Article 29",
+      "content": "Sont subordonnées à l'autorisation préalable du Ministre des Finances, les opérations suivantes relatives aux banques et établissements financiers ayant leur siège social en République du Sénégal : • toute modification de la forme juridique, de la dénomination ou raison sociale, ou du nom commercial ; • toute opération de fusion par absorption ou création d'une société nouvelle, ou de scission, • toute dissolution anticipée; • toute prise ou cession de participation qui aurait pour effet de porter la participation d'une même personne, directement ou par personne interposée, ou d'un même groupe de personnes agissant de concert, d'abord au-delà de la minorité de blocage, puis au-delà de la majorité des droits de vote dans la banque ou l'établissement financier, ou d'abaisser cette participation au-dessous de ces seuils. Les banques et établissements financiers dont le siège social est situé à l'étranger sont tenus d'informer la commission bancaire de toute opération visée au paragraphe précédent et les concernant. Et considéré comme minorité de blocage le nombre de voix pouvant faire obstacle à une modification des statuts de la banque ou de l'établissement financier. Sont notamment considérées comme personnes interposées par rapport à une même personne physique ou morale : 19 • les personnes morales dans lesquelles cette personne détient la majorité des droits de vote ; • les filiales à participation majoritaire, c'est-à-dire les sociétés dans lesquelles les sociétés visées à l'alinéa précèdent détiennent la majorité des droits de vote, ou dans lesquelles leur participation, ajoutée à celle de la personne physique ou morale dont il s'agit, détient la majorité des droits de vote. • les filiales de filiales au sens de l'alinéa précédent."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 3 - Autorisations diverses",
+      "section": "30",
+      "title": "Article 30",
+      "content": "Sont également subordonnées à l'autorisation préalable du Ministres des Finances : • toute cession par une banque ou un établissement financier de plus de 20 % de son actif correspondant à ses opérations en République du Sénégal. • toute mise en gérance ou cessation de l'ensemble de ses activités en République du Sénégal."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 3 - Autorisations diverses",
+      "section": "31",
+      "title": "Article 31",
+      "content": "Les autorisations préalables prévues au présent chapitre sont accordées comme en matière d'agrément."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 4 - Opérations > Section 1 - Opérations des banques",
+      "section": "32",
+      "title": "Article 32",
+      "content": "Les ouvertures, fermetures, transformations, transferts, cessions ou mises en gérance de guichets ou d'agences de banque ou d'établissement financier en République du Sénégal doivent être notifiés au Ministre des Finances et à la Banque Centrale."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 4 - Opérations > Section 1 - Opérations des banques",
+      "section": "33",
+      "title": "Article 33",
+      "content": "Il est interdit aux banques de se livrer, pour leur propre compte ou pour le compte d'autrui, à des activités commerciales, industrielles, agricoles ou de services, sauf dans le mesure où ces opérations sont nécessaires ou accessoires à l'exercice de leur activité bancaire ou nécessaires au recouvrement de leurs créances."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 4 - Opérations > Section 1 - Opérations des banques",
+      "section": "34",
+      "title": "Article 34",
+      "content": "Il est interdit aux banques d'acquérir leurs propres actions ou de consentir des crédits contre affectation en garantie de leurs propres actions . 20"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 4 - Opérations > Section 1 - Opérations des banques",
+      "section": "35",
+      "title": "Article 35",
+      "content": "Il est interdit aux banques d'accorder directement ou indirectement des crédits aux personnes qui participent à leur direction, administration, gérance, contrôle ou fonctionnement, pour un montant global excédant un pourcentage de leurs fonds propres effectifs, qui sera arrêté par une instruction de la Banque Centrale. La même interdiction s'applique aux crédits consentis aux entreprises privées dans lesquelles les personnes visées ci-dessus exercent des fonctions de direction, d'administration ou de gérance, ou détiennent plus du quart du capital social. Quel qu'en soit le montant, tout prêt ou garantie consenti par une banque à ses dirigeants, à ses principaux actionnaires ou associés ou aux entreprises privées dans lesquelles les personnes visées ci-dessus exercent des fonctions de direction, d'administration ou de gérance ou détiennent plus du quart du capital social, devra être approuvé à l'unanimité par les membres du Conseil d'Administration de la banque et sera mentionné dans le rapport annuel des commissaires aux comptes à l'assemblée des actionnaires."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 4 - Opérations > Section 1 - Opérations des banques",
+      "section": "36",
+      "title": "Article 36",
+      "content": "Le Ministre des Finances peut, après avis conforme de la Commission Bancaire, accorder des dérogations individuelles et temporaires aux dispositions de la présente section. Section II - Opérations des établissements financiers"
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 4 - Opérations > Section 1 - Opérations des banques",
+      "section": "37",
+      "title": "Article 37",
+      "content": "Les opérations des diverses catégories d'établissements financiers sont réglementées par décret compte tenu de la nature de leur activité, après avis conforme de la Banque Centrale et sous réserve des dispositions de l'article 44."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 5 - Comptabilité et information de la Banque Centrale et de la Commission > Section 1 - Opérations des banques",
+      "section": "38",
+      "title": "Article 38",
+      "content": "Les établissements financiers ne peuvent recevoir de dépôts de fonds du public que dans le cadre de leur activité et s'ils y ont été autorisés par décret et dans les conditions fixées par ledit décret. Ce décret est pris après avis conforme de la Banque Centrale. Bancaire"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 5 - Comptabilité et information de la Banque Centrale et de la Commission > Section 1 - Opérations des banques",
+      "section": "39",
+      "title": "Article 39",
+      "content": "Les banques et établissements financiers doivent tenir à leur siège social, principal établissement ou agence principale en République du Sénégal, une comptabilité particulière des opération s qu'il s traitent sur le territoire de la République du Sénégal. 21 Ils sont tenus d'établir leurs comptes sous une forme consolidée, conformément aux dispositions comptables et autres règles arrêtées par la Banque Centrale."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 5 - Comptabilité et information de la Banque Centrale et de la Commission > Section 1 - Opérations des banques",
+      "section": "40",
+      "title": "Article 40",
+      "content": "Les banques et établissements financiers doivent arrêter leurs comptes au 30 septembre de chaque année. Avant le 31 mars de l'année suivante, ils doivent communiquer à la Banque Centrale et à la Commission Bancaire : • leurs bilans et leurs engagements hors bilan ; • leur compte d'exploitation ; • leur compte de pertes et profits. Ces documents doivent être certifiés réguliers et sincères par un commissaire aux comptes, choisi sur la liste des commissaires aux comptes inscrits au Tableau de l'Ordre National des Experts et Evaluations agréés du Sénégal. Ce choix est soumis à l'approbation de la Commission Bancaire. Le bilan annuel de chaque banque est publié au Journal Officiel à la diligence de la Banque Centrale. Les frais de cette publication sont à la charge de la banque."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 5 - Comptabilité et information de la Banque Centrale et de la Commission > Section 1 - Opérations des banques",
+      "section": "41",
+      "title": "Article 41",
+      "content": "Les banques et établissements financiers doivent, en cours d'exercice, dresser des situations selon la périodicité et dans les conditions prescrites par la Banque Centrale. Ces situations sont communiquées à cette dernière et à la Commission Bancaire."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Titre 4 - REGLEMENTATION DES BANQUES ET DES ETABLISSEMENTS > Chapitre 5 - Comptabilité et information de la Banque Centrale et de la Commission > Section 1 - Opérations des banques",
+      "section": "42",
+      "title": "Article 42",
+      "content": "Les banques et établissements financiers doivent fournir, à toute réquisition de la Banque Centrale, les renseignements, éclaircissements, justifications et documents jugées utiles pour l'examen de leur situation, l'appréciation de leurs risques, l'établissement de listes, de chèques et effets de commerce impayés et d'autres incidents de paiement, et généralement pour l'exercice par la Banque Centrale de ses attributions. Les banques et établissements financiers sont tenus, à toute demande de la Commission Bancaire, de fournir à cette dernière tous documents, renseignements, éclaircissements et justifications jugés utiles à l'exercice de ses attributions. A la requête de la Commission Bancaire, tout commissaire aux comptes d'une banque ou d'un établissement financier est tenu de lui communiquer tous rapports, documents et autres pièces ainsi que de lui fournir tous renseignements jugés utiles à l'accomplissement de sa 22 mission. Le secret professionnel n'est opposable ni à la Commission Bancaire, ni à la Banque Centrale, ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Titre 5 - REGLES DE L'UNION MONETAIRE OUEST AFRICAINE > Chapitre 5 - Comptabilité et information de la Banque Centrale et de la Commission > Section 1 - Opérations des banques",
+      "section": "43",
+      "title": "Article 43",
+      "content": "Les dispositifs de l'article 42 sont applicables à l'Office des Postes et de la Caisse d'Epargne en ce qui concerne les opérations de ses services financiers et de chèques postaux."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Titre 5 - REGLES DE L'UNION MONETAIRE OUEST AFRICAINE > Chapitre 5 - Comptabilité et information de la Banque Centrale et de la Commission > Section 1 - Opérations des banques",
+      "section": "44",
+      "title": "Article 44",
+      "content": "Le Conseil des Ministres de l'Union Monétaire Ouest Africaine est habilité à prendre toutes dispositions concernant : • les instruments et les règles de la politique du crédit applicables aux banques et établissements financiers, notamment la constitution de réserves obligatoires déposées auprès de la Banque Centrale, le respect d'un rapport entre les divers éléments de leurs ressources et emplois ou le respect de plafond ou de minimum pour le montant de certains de leurs emplois ; • les conditions dans lesquelles les banques et établissements financiers peuvent prendre des participations ; • les normes de gestion que les banques et établissements financiers doivent respecter en vue notamment de garantir leur liquidité, leur solvabilité, la division de leurs risques et l'équilibre de leur structure financière. La Banque Centrale est habilitée à prendre toutes dispositions concernant les taux et conditions des opérations effectuées par les banques et établissements financiers avec leur clientèle. Elle pourra instituer des dispositions particulières en faveur de certains établissements à statut spécial, notamment les établissements ne recourant pas à l'usage du taux d'intérêt et pratiquant le système de partage des profits et des pertes. Les dispositions prévues au présent article pourront être différentes pour les banques et les diverses catégories d'établissements financiers et prévoir des dérogations individuelles et temporaires, accordées par la Commission Bancaire. Elles sont notifiées par la Banque Centrale aux banques et établissements financiers. Des instructions de la Banque Centrale détermineront les modalités d'application de ces dispositions. 23"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 1 - Contrôle > Section 1 - Opérations des banques",
+      "section": "45",
+      "title": "Article 45",
+      "content": "Les banques et établissements financiers sont tenus de se conformer aux décisions que le Conseil des Ministres de l'Union Monétaire Ouest Africaine, la Banque Centrale et la Commission Bancaire prennent dans l'exercice des pouvoirs qui leur sont conférés par le Traité constituant l'Union Monétaire Ouest Africaine, les statuts de la Banque Centrale, la Convention portant création de la Commission Bancaire et la présente loi."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 2 - Sanctions disciplinaires > Section 1 - Opérations des banques",
+      "section": "46",
+      "title": "Article 46",
+      "content": "Les banques et établissements financiers ne peuvent s'opposer aux contrôles effectués par la Commission Bancaire et la Banque Centrale, conformément aux dispositions en vigueur sur le territoire de la République du Sénégal."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 2 - Sanctions disciplinaires > Section 1 - Opérations des banques",
+      "section": "47",
+      "title": "Article 47",
+      "content": "Les sanctions disciplinaires pour infraction à la réglementation bancaires sont prononcées par la Commission Bancaire, conformément à la Convention portant création de ladite Commission."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 3 - Sanctions pénales > Section 1 - Opérations des banques",
+      "section": "48",
+      "title": "Article 48",
+      "content": "Les décisions de la Commission Bancaire sont exécutoires de plein droit sur le territoire de la République du Sénégal."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 3 - Sanctions pénales > Section 1 - Opérations des banques",
+      "section": "49",
+      "title": "Article 49",
+      "content": "Sera puni d'un emprisonnement d'un mois à deux ans et d'une amende de 2.000.000 à 20.000.000 de francs, ou de l'une de ces deux peines seulement, quiconque agissant pour son compte ou celui d'un tiers, aura contrevenu aux dispositions : • de l'article 7 ; • de l'article 10, paragraphe 2. En cas de récidive, le maximum de la peine sera porté à cinq ans d'emprisonnement et à 50.000.000 de francs d'amende. 24"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 3 - Sanctions pénales > Section 1 - Opérations des banques",
+      "section": "50",
+      "title": "Article 50",
+      "content": "Sera puni d'un emprisonnement d'un mois à deux ans et d'une amende de 2.000.000 à 20.000.000 de francs, ou de l'une de ces deux peines seulement, quiconque aura contrevenu aux dispositions de l'article 19, paragraphe 2. En cas de récidive, le maximum de la peine sera porté à cinq ans d'emprisonnement et à 50.00.000 de francs d'amende."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 3 - Sanctions pénales > Section 1 - Opérations des banques",
+      "section": "51",
+      "title": "Article 51",
+      "content": "Sera puni d'un emprisonnement d'un mois à un an et d'une amende de 1.000.000 de francs, ou de l'une de ces deux peines seulement, quiconque, agissant pour son compte ou celui d'un tiers, aura communiqué sciemment à la Banque Centrale ou à la Commission Bancaire des documents ou renseignements inexacts ou se sera opposé à l'un des contrôles visés à l'article 46. En cas de récidive, le maximum de la peine sera porté à deux ans d'emprisonnement et à 20.000.000 de francs d'amende."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 4 - Autres sanctions > Section 1 - Opérations des banques",
+      "section": "52",
+      "title": "Article 52",
+      "content": "Sera puni d'une amende de 2.000.000 à 20.000.000 de francs, toute banque ou tout établissement financier qui aura contrevenu à l'une des dispositions des articles 18, 27, 30, 40, 41 et 42 ou des dispositions prévues aux articles 44 et 45, le tout sans préjudice des sanctions prévues aux chapitres II et IV du présent Titre. La même peine pourra être prononcée contre les dirigeants responsables de l'infraction et contre tout commissaire aux comptes qui aura contrevenu aux dispositions de l'article 42. Seront passibles de la même peine, les personnes qui auront pris ou cédé une participation dans une banque ou un établissement financier en contravention des dispositions de l'article 29."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 4 - Autres sanctions > Section 1 - Opérations des banques",
+      "section": "53",
+      "title": "Article 53",
+      "content": "Les banques et établissements financiers qui n'auront pas constitué auprès de la Banque Centrale les réserves obligatoires qui seraient instituées en vertu de l'article 44 ou qui ne lui auront pas cédé leurs avoirs en devises lorsqu'ils en sont requis conformément à l'article 18 des Statuts de ladite Banque, seront tenus envers celle-ci d'un intérêt moratoire dont le taux ne pourra excéder 1 % par jour de retard. 25"
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 4 - Autres sanctions > Section 1 - Opérations des banques",
+      "section": "54",
+      "title": "Article 54",
+      "content": "Les banques et établissements financiers qui n'auront pas fourni à la Banque Centrale ou à la Commission Bancaire les documents et renseignements prévus aux articles 40, 41 et 42, pourront être frappés par la Banque Centrale des pénalités suivantes par jour de retard et par omission : • 10.000 francs durant les quinze premiers jours ; • 20.000 francs durant les quinze jours suivants ; • 50.000 francs au-delà. Le produit de ces pénalités est recouvré par la Banque Centrale pour le compte du Trésor."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 4 - Autres sanctions > Section 1 - Opérations des banques",
+      "section": "55",
+      "title": "Article 55",
+      "content": "Les banques et établissements financiers qui auront contrevenu aux règles de l'Union Monétaire Ouest Africaine leur imposant le respect d'un rapport entre les divers éléments de leurs ressources et emplois ou le respect de plafond ou de minimum pour le montant de certains de leurs emplois, pourront être requis par la Banque Centrale de constituer auprès d'elle un dépôt non rémunéré dont le montant sera au plus égal à 200 % des irrégularités constatées et dont la durée sera au plus égale à celle de l'infraction. En cas de retard dans la constitution de ce dépôt, les dispositions de l'article 53 relatives à l'intérêt moratoire sont applicables."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 4 - Autres sanctions > Section 1 - Opérations des banques",
+      "section": "56",
+      "title": "Article 56",
+      "content": "Les banques et établissements financiers qui auront contrevenu aux règles des l'Union Monétaire Ouest Africaine fixant les taux et conditions de leurs opérations avec leur clientèle pourront être requis par la Banque Centrale de constituer auprès d'elle un dépôt non rémunéré dont le montant sera au plus égal à 200 % des irrégularités constatées ou, dans le cas de rémunérations indûment perçues ou versées, à 500 % desdites rémunérations, et dont la durée sera au plus égale à un mois. En cas de retard dans le constitution de ce dépôt, les dispositions de l'article 53 relatives à l'intérêt moratoire sont applicables."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "Titre 6 - CONTROLE ET SANCTIONS > Chapitre 4 - Autres sanctions > Section 1 - Opérations des banques",
+      "section": "57",
+      "title": "Article 57",
+      "content": "Pour l'application des articles 54, 55 et 56, les pénalités de retard et les intérêts moratoires ne commenceront à courir qu'à compter de la date de réception par la banque ou l'établissement financier d'une mise en demeure effectuée par la Banque Centrale. 26"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 1 - Dispositions communes aux banques et établissements Financiers > Section 1 - Opérations des banques",
+      "section": "58",
+      "title": "Article 58",
+      "content": "Les décisions prises par la Banque Centrale en vertu des dispositions du présent chapitre ne sont susceptibles de recours que devant le Conseil des Ministres de l'Union Monétaire, dans les conditions fixées par celui-ci."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 1 - Dispositions communes aux banques et établissements Financiers > Section 1 - Opérations des banques",
+      "section": "59",
+      "title": "Article 59",
+      "content": "Les banques et établissements financiers doivent, dans le mois qui suit leur inscription sur la liste des banques ou sur celle des établissements financiers, adhérer à l'Association Professionnelle des Banques et Etablissements Financiers. Les statuts de cette Association sont soumis à l'approbation du Ministre de Finances. L'approbation est donnée après avis de la Commission Bancaire."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 1 - Dispositions communes aux banques et établissements Financiers > Section 1 - Opérations des banques",
+      "section": "60",
+      "title": "Article 60",
+      "content": "Le Ministre des Finances peut, après avis de la Banque Centrale, suspendre tout ou partie des opérations de l'ensemble des banques et établissements financiers. La suspension ne peut excéder six jours ouvrables . Elle peut être prorogée dans les mêmes formes et pour la même durée."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 1 - Dispositions communes aux banques et établissements Financiers > Section 1 - Opérations des banques",
+      "section": "61",
+      "title": "Article 61",
+      "content": "Le Ministre des Finances peut nommer un administrateur provisoire auquel il confère les pouvoirs nécessaires à la direction, à l'administration ou à la gérance d'une banque ou d'un établissement financier, soit sur proposition de la Commission Bancaire dans les cas prévus à l'article 26 de l'Annexe à la Convention portant création de ladite Commission, soit après avis de cette Commission, lorsque la gestion de la banque ou de l'établissement financier met en péril les fonds reçus en dépôt ou rend illiquides les créances de la Banque Centrale."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 1 - Dispositions communes aux banques et établissements Financiers > Section 1 - Opérations des banques",
+      "section": "62",
+      "title": "Article 62",
+      "content": "Le Ministre des Finances peut nommer un liquidateur à une banque ou à un établissement financier, sur proposition de la Commission Bancaire dans les cas prévus à l'article 27 de l'Annexe à la Convention portant création de ladite Commission."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 1 - Dispositions communes aux banques et établissements Financiers > Section 1 - Opérations des banques",
+      "section": "63",
+      "title": "Article 63",
+      "content": "L'administrateur provisoire ou le liquidateur nommé par le Ministre peut saisir la juridiction compétente aux fins de faire déclarer la banque ou l'établissement financier en état de 27 cessation des paiements. Les fonctions de l'administrateur provisoire ou du liquidateur prennent fin dès la nomination d'un syndic ou d'un administrateur judiciaire."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 2 - Autres dispositions > Section 1 - Opérations des banques",
+      "section": "64",
+      "title": "Article 64",
+      "content": "Le président de la Commission Bancaire peut, en cas de besoin, inviter les actionnaires, associés ou sociétaires d'une banque ou d'un établissement financier en difficulté à apporter leurs concours à son redressement. Il peut en outre inviter l'ensemble des adhérents de l'Association Professionnelle des Banques et Etablissements Financiers à examiner les conditions dans lesquelles ils pourraient apporter leur concours au redressement de la banque ou de l'établissement financier."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 2 - Autres dispositions > Section 1 - Opérations des banques",
+      "section": "65",
+      "title": "Article 65",
+      "content": "Les entreprises, organismes et personnes visés à l'article 6 doivent, sous peine des sanctions prévues à l'article 52, communiquer à la Banque Centrale, sur sa demande, les renseignements et documents nécessaires à l'exercice de ses attributions, telles qu'elles sont définies par le Traité constituant l'Union Monétaire Ouest Africaine, par ses Statuts et par les lois et règlements en vigueur. Dans le cas de fourniture de documents ou renseignements inexacts, les dispositions de l'article 51 sont applicables."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 2 - Autres dispositions > Section 1 - Opérations des banques",
+      "section": "66",
+      "title": "Article 66",
+      "content": "Toute personne physique ou morale, à l'exception des banques et établissements financiers, qui fait profession, à titre d'activité principale ou accessoire, d'apporter des affaires aux banques et établissements financiers ou d'opérer pour leur compte, ne peut exercer son activité sans l'autorisation préalable du Ministre des Finances. La demande d'autorisation est instruite par la Banque Centrale. L'autorisation précise l'appellation qui peut être utilisée par cette personne, par dérogation à l'article 7, ainsi que les renseignements qu'elle devra fournir à la Banque Centrale et leur périodicité. Toute cessation d'activité est préalablement notifiée au Ministre des Finances et à la Banque Centrale. Les dispositions du présent article ne s'appliquent pas aux dirigeants et au personnel des banques et établissements financiers agréés, dans l'exercice de leurs fonctions. Quiconque, agissant pour son compte ou celui d'un tiers, aura contrevenu aux dispositions du présent article, sera puni d'une amende de 1.000.000 à 10.000.000 de francs. En cas de récidive, il sera puni d'un emprisonnement de deux mois à deux ans et d'une amende de 2.000.000 à 20.000.000 de francs, ou de l'une de ces deux peines seulement. 28"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Titre 7 - DISPOSITIONS DIVERSES > Chapitre 2 - Autres dispositions > Section 1 - Opérations des banques",
+      "section": "67",
+      "title": "Article 67",
+      "content": "Sous réserve des dispositions de l'article 38 et des lois et règlements particuliers à certaines personnes physiques ou morales, il est interdit à toute personne physique ou morale autre qu'une banque de solliciter ou d'accepter des dépôts de fonds du public quel qu'en soit le terme. Sera puni d'un emprisonnement d'un mois à deux ans et d'une amende de 2.000.000 à 10.000.000 de francs, ou de l'une de ces deux peines seulement, quiconque, agissant pour son compte ou celui d'un tiers, aura contrevenu aux dispositions du paragraphe précédent. En cas de récidive, le maximum de la peine sera porté à cinq ans d'emprisonnement et à 50.000.000 de francs d'amende. Ne sont pas considérés comme reçus du public : • les fonds constituant le capital de l'entreprise ; • les fonds reçus des dirigeants de l'entreprise ainsi que des actionnaires, associés ou sociétaires détenant 10 % au moins du capital social ; • les fonds reçus de banques ou d'établissements financiers à l'occ asion d'opérations de crédit ; • les fonds reçus du personnel de l'entreprise, à condition que leur montant global reste inférieur à 10 % des fonds propres effectifs de l'entreprise. Les fonds provenant d'une émission de bons de caisse sont toujours considérés comme dépôts de fonds du public."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Titre 8 - DISPOSITIONS TRANSITOIRES ET REGLEMENTS D'APPLICATION > Chapitre 2 - Autres dispositions > Section 1 - Opérations des banques",
+      "section": "68",
+      "title": "Article 68",
+      "content": "Le Procureur de la République avise la Commission Bancaire de toute poursuite engagée contre quiconque en application des dispositions de la présente loi. Il en fait de même pour toute poursuite engagée contre toute personne visée à l'article 19 pour l'une des infractions mentionnées à l'article 15."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Titre 8 - DISPOSITIONS TRANSITOIRES ET REGLEMENTS D'APPLICATION > Chapitre 2 - Autres dispositions > Section 1 - Opérations des banques",
+      "section": "69",
+      "title": "Article 69",
+      "content": "Les banques et établissements financiers actuellement inscrits sur la liste des banques ou sur celle des établissements financiers sont de plein droit agréés et inscrits sur les listes prévues à l'article 7."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "Titre 8 - DISPOSITIONS TRANSITOIRES ET REGLEMENTS D'APPLICATION > Chapitre 2 - Autres dispositions > Section 1 - Opérations des banques",
+      "section": "70",
+      "title": "Article 70",
+      "content": "Les règlements d'application de la présente loi seront pris après avis de la Banque Centrale. 29"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "Titre 8 - DISPOSITIONS TRANSITOIRES ET REGLEMENTS D'APPLICATION > Chapitre 2 - Autres dispositions > Section 1 - Opérations des banques",
+      "section": "71",
+      "title": "Article 71",
+      "content": "La présente loi entrera en vigueur à la date prévue à l'article 37 de l'Annexe à la convention portant création de la Commission Bancaire. Sont abrogés à compter de cette date, toutes les dispositions antérieures, contraires et notamment la loi (ou l'ordonnance) portant réglementation prudentielle."
     }
   ],
   "definitions": []

@@ -1,16 +1,16 @@
 # Senegalese Law MCP Server
 
-**The Senegal Law alternative for the AI age.**
+**The Journal Officiel du Sénégal alternative for the AI age.**
 
-[![npm version](https://badge.fury.io/js/%40ansvar/senegal-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/senegal-law-mcp)
+[![npm version](https://badge.fury.io/js/@ansvar%2Fsenegalese-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/senegalese-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Senegal-law-mcp?style=social)](https://github.com/Ansvar-Systems/Senegal-law-mcp)
-[![CI](https://github.com/Ansvar-Systems/Senegal-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Senegal-law-mcp/actions/workflows/ci.yml)
-[![Database](https://img.shields.io/badge/database-pre--built-green)]()
-[![Provisions](https://img.shields.io/badge/provisions-21%2C559-blue)]()
+[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Senegalese-law-mcp?style=social)](https://github.com/Ansvar-Systems/Senegalese-law-mcp)
+[![CI](https://github.com/Ansvar-Systems/Senegalese-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Senegalese-law-mcp/actions/workflows/ci.yml)
+[![Database](https://img.shields.io/badge/database-pre--built-green)](docs/INTERNATIONAL_INTEGRATION_GUIDE.md)
+[![Provisions](https://img.shields.io/badge/provisions-4%2C946-blue)](docs/INTERNATIONAL_INTEGRATION_GUIDE.md)
 
-Query **494 Senegalese Acts** -- from the Data Protection Act and Computer Misuse and Cybercrimes Act to the Companies Act, Constitution of Senegal, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Interrogez **71 lois sénégalaises** -- de la Loi n° 2008-12 sur la protection des données personnelles au Code Pénal, au Code du Travail, et plus encore -- directement depuis Claude, Cursor, ou tout client compatible MCP.
 
 If you're building legal tech, compliance tools, or doing Senegalese legal research, this is your verified reference database.
 
@@ -18,17 +18,17 @@ Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
 ---
 
-## Why This Exists
+## Pourquoi cet outil existe
 
-Senegalese legal research is scattered across Senegal Law Reports, the Senegal Gazette, and various government portals. Whether you're:
-- A **lawyer** validating citations in a brief or contract under Senegalese law
-- A **compliance officer** checking if the Data Protection Act 2019 provisions apply to your processing activities
-- A **legal tech developer** building tools on Senegalese legislation
-- A **researcher** tracing legislative history from colonial-era statutes to the 2010 Constitution
+La recherche juridique sénégalaise est dispersée entre jo.gouv.sn, servicepublic.gouv.sn, senelex.com, et les publications de la Primature. Que vous soyez :
+- Un **avocat** validant des citations dans un mémoire ou un contrat
+- Un **juriste d'entreprise** vérifiant la conformité aux lois sénégalaises
+- Un **développeur legaltech** construisant des outils sur le droit sénégalais
+- Un **chercheur** analysant la législation sénégalaise dans un cadre régional (CEDEAO, OHADA)
 
-...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
+...vous ne devriez pas avoir besoin de dizaines d'onglets de navigateur et de recherches manuelles en PDF. Posez la question à Claude. Obtenez la disposition exacte. Avec le contexte.
 
-This MCP server makes Senegalese law **searchable, cross-referenceable, and AI-readable**.
+Ce serveur MCP rend le droit sénégalais **consultable, référençable et lisible par l'IA**.
 
 ---
 
@@ -38,12 +38,12 @@ This MCP server makes Senegalese law **searchable, cross-referenceable, and AI-r
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://senegal-law-mcp.vercel.app/mcp`
+**Endpoint:** `https://senegalese-law-mcp.vercel.app/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add senegal-law --transport http https://senegal-law-mcp.vercel.app/mcp` |
+| **Claude Code** | `claude mcp add senegalese-law --transport http https://senegalese-law-mcp.vercel.app/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -52,9 +52,9 @@ This MCP server makes Senegalese law **searchable, cross-referenceable, and AI-r
 ```json
 {
   "mcpServers": {
-    "senegal-law": {
+    "senegalese-law": {
       "type": "url",
-      "url": "https://senegal-law-mcp.vercel.app/mcp"
+      "url": "https://senegalese-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -65,9 +65,9 @@ This MCP server makes Senegalese law **searchable, cross-referenceable, and AI-r
 ```json
 {
   "github.copilot.chat.mcp.servers": {
-    "senegal-law": {
+    "senegalese-law": {
       "type": "http",
-      "url": "https://senegal-law-mcp.vercel.app/mcp"
+      "url": "https://senegalese-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -76,7 +76,7 @@ This MCP server makes Senegalese law **searchable, cross-referenceable, and AI-r
 ### Use Locally (npm)
 
 ```bash
-npx @ansvar/senegal-law-mcp
+npx @ansvar/senegalese-law-mcp
 ```
 
 **Claude Desktop** -- add to `claude_desktop_config.json`:
@@ -87,9 +87,9 @@ npx @ansvar/senegal-law-mcp
 ```json
 {
   "mcpServers": {
-    "senegal-law": {
+    "senegalese-law": {
       "command": "npx",
-      "args": ["-y", "@ansvar/senegal-law-mcp"]
+      "args": ["-y", "@ansvar/senegalese-law-mcp"]
     }
   }
 }
@@ -100,9 +100,9 @@ npx @ansvar/senegal-law-mcp
 ```json
 {
   "mcp.servers": {
-    "senegal-law": {
+    "senegalese-law": {
       "command": "npx",
-      "args": ["-y", "@ansvar/senegal-law-mcp"]
+      "args": ["-y", "@ansvar/senegalese-law-mcp"]
     }
   }
 }
@@ -110,41 +110,69 @@ npx @ansvar/senegal-law-mcp
 
 ---
 
-## Example Queries
+## Exemples de requêtes
 
-Once connected, just ask naturally:
+Une fois connecté, posez simplement vos questions naturellement :
 
-- *"What does the Data Protection Act 2019 say about consent?"*
-- *"Is the Companies Act 2015 still in force?"*
-- *"Find provisions about cybersecurity in the Computer Misuse and Cybercrimes Act"*
-- *"What does the Constitution of Senegal say about the right to privacy?"*
-- *"Search for data breach notification requirements in Senegalese law"*
-- *"What are the obligations under the National Payment Systems Act?"*
-- *"Validate this legal citation"*
-- *"Build a legal stance on personal data processing in Senegal"*
-
----
-
-## Key Legislation Covered
-
-| Act | Year | Significance |
-|-----|------|-------------|
-| **Data Protection Act** | 2019 | Comprehensive data protection law modeled on EU GDPR; established the Office of the Data Protection Commissioner (ODPC) |
-| **Computer Misuse and Cybercrimes Act** | 2018 | Comprehensive cybercrime legislation (note: Sections 22, 23, 24, 27, and 53 were partially suspended by the High Court pending constitutional review) |
-| **Senegal Information and Communications Act** | 1998 (amended) | Regulates telecommunications and ICT sector; establishes the Communications Authority of Senegal |
-| **Companies Act** | 2015 | Modern company law framework replacing the Companies Act (Cap 486) |
-| **Consumer Protection Act** | 2012 | Consumer rights and fair trade practices |
-| **Access to Information Act** | 2016 | Right to access government-held information |
-| **National Payment Systems Act** | 2011 | Regulation of payment systems including mobile money (M-Pesa) |
-| **Constitution of Senegal** | 2010 | Supreme law; Article 31 guarantees the right to privacy |
+- *"Rechercher les dispositions sur la 'protection des données personnelles' (Loi n° 2008-12)"*
+- *"Que dit le Code Pénal sénégalais sur la cybercriminalité ?"*
+- *"Trouver les articles du Code du Travail sur le licenciement abusif"*
+- *"La Loi n° 2008-12 est-elle toujours en vigueur ?"*
+- *"Quelles obligations impose la Loi sur les contrats de partenariat ?"*
+- *"Rechercher 'liberté de la presse' dans la législation sénégalaise"*
+- *"Quel cadre CEDEAO s'applique à la loi sénégalaise sur le commerce électronique ?"*
+- *"Valider la citation : Loi n° 2008-12, article 45"*
+- *"Construire une position juridique sur les obligations de confidentialité en droit sénégalais"*
 
 ---
 
-## Deployment Tier
+## What's Included
 
-**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+| Category | Count | Details |
+|----------|-------|---------|
+| **Lois** | 71 lois | Législation sénégalaise officielle |
+| **Dispositions** | 4,946 sections | Recherche plein texte avec FTS5 |
+| **Database Size** | ~11 MB | Optimized SQLite, portable |
+| **Language** | French | Langue officielle du droit sénégalais |
+| **Freshness Checks** | Automated | Drift detection against official sources |
 
-**Estimated database size:** ~80-150 MB (full corpus of Senegalese federal legislation)
+**Verified data only** -- every citation is validated against official sources (jo.gouv.sn, primature.sn). Zero LLM-generated content.
+
+---
+
+## Why This Works
+
+**Verbatim Source Text (No LLM Processing):**
+- All statute text is ingested from jo.gouv.sn, servicepublic.gouv.sn, and senelex.com official sources
+- Provisions are returned **unchanged** from SQLite FTS5 database rows
+- Zero LLM summarization or paraphrasing -- the database contains law text, not AI interpretations
+
+**Smart Context Management:**
+- Search returns ranked provisions with BM25 scoring (safe for context)
+- Provision retrieval gives exact text by law identifier + article number
+- Cross-references help navigate without loading everything at once
+
+**Technical Architecture:**
+```
+Journal Officiel / Primature --> Parse --> SQLite --> FTS5 snippet() --> MCP response
+                                    ^                        ^
+                             Provision parser         Verbatim database query
+```
+
+### Traditional Research vs. This MCP
+
+| Approche traditionnelle | Ce serveur MCP |
+|------------------------|----------------|
+| Rechercher sur jo.gouv.sn par numéro de loi | Rechercher en français : *"protection données personnelles"* |
+| Naviguer dans les codes manuellement | Obtenir la disposition exacte avec son contexte |
+| Références croisées manuelles entre lois | `build_legal_stance` agrège depuis plusieurs sources |
+| "Cette loi est-elle toujours en vigueur ?" -- vérification manuelle | Outil `check_currency` -- réponse en secondes |
+| Trouver le cadre CEDEAO -- fouiller les bases de données | `get_eu_basis` -- cadres internationaux liés instantanément |
+| Pas d'API, pas d'intégration | Protocole MCP -- natif IA |
+
+**Traditionnel :** Chercher sur jo.gouv.sn --> Télécharger PDF --> Ctrl+F --> Références croisées --> Vérifier sur OHADA.com --> Recommencer
+
+**Ce MCP :** *"Quelles sont les obligations de notification de la Loi n° 2008-12 et comment s'alignent-elles avec les cadres CEDEAO ?"* --> Terminé.
 
 ---
 
@@ -154,56 +182,40 @@ Once connected, just ask naturally:
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | FTS5 full-text search across all provisions with BM25 ranking |
-| `get_provision` | Retrieve specific provision by statute + chapter/section |
-| `check_currency` | Check if statute is in force, amended, or repealed |
-| `validate_citation` | Validate citation against database (zero-hallucination check) |
-| `build_legal_stance` | Aggregate citations from statutes for a legal topic |
+| `search_legislation` | FTS5 full-text search across 4,946 provisions with BM25 ranking. Supports French full-text queries |
+| `get_provision` | Retrieve specific provision by law identifier + article number |
+| `check_currency` | Check if a law is in force, amended, or repealed |
+| `validate_citation` | Validate citation against database -- zero-hallucination check |
+| `build_legal_stance` | Aggregate citations from multiple laws for a legal topic |
 | `format_citation` | Format citations per Senegalese conventions (full/short/pinpoint) |
-| `list_sources` | List all available statutes with metadata |
-| `about` | Server info, capabilities, and coverage summary |
+| `list_sources` | List all available laws with metadata, coverage scope, and data provenance |
+| `about` | Server info, capabilities, dataset statistics, and coverage summary |
 
-### EU/International Law Integration Tools (5)
+### International Law Integration Tools (5)
 
 | Tool | Description |
 |------|-------------|
-| `get_eu_basis` | Get EU directives/regulations for Senegalese statute |
-| `get_senegalese_implementations` | Find Senegalese laws implementing EU act |
-| `search_eu_implementations` | Search EU documents with Senegalese implementation counts |
-| `get_provision_eu_basis` | Get EU law references for specific provision |
-| `validate_eu_compliance` | Check implementation status of EU directives |
+| `get_eu_basis` | Get international frameworks (ECOWAS/CEDEAO, AU, OHADA) that a Senegalese law aligns with |
+| `get_senegalese_implementations` | Find Senegalese laws implementing a specific international instrument |
+| `search_eu_implementations` | Search international documents with Senegalese implementation counts |
+| `get_provision_eu_basis` | Get international law references for a specific provision |
+| `validate_eu_compliance` | Check alignment status of Senegalese laws against international frameworks |
 
 ---
 
-## Why This Works
+## International Law Alignment
 
-**Verbatim Source Text (No LLM Processing):**
-- All statute text is ingested from official Senegalese government sources
-- Provisions are returned **unchanged** from SQLite FTS5 database rows
-- Zero LLM summarization or paraphrasing -- the database contains regulation text, not AI interpretations
+Le Sénégal n'est pas membre de l'UE. Le droit sénégalais s'aligne avec les cadres internationaux à travers :
 
-**Smart Context Management:**
-- Search returns ranked provisions with BM25 scoring (safe for context)
-- Provision retrieval gives exact text by statute identifier + chapter/section
-- Cross-references help navigate without loading everything at once
+- **CEDEAO/ECOWAS** -- Le Sénégal est membre fondateur; les lois sur le commerce, le numérique et le travail s'alignent avec les directives de la CEDEAO
+- **OHADA** -- Le Sénégal applique le droit OHADA pour le commerce et les affaires; le droit des sociétés suit l'Acte uniforme OHADA
+- **Union Africaine (UA)** -- Alignement avec la Convention de l'UA sur la cybersécurité et la protection des données personnelles (Convention de Malabo)
+- **Francophonie** -- Participation aux cadres juridiques francophones partagés
+- **Ordre des Avocats du Sénégal** -- La pratique juridique professionnelle est réglementée par l'Ordre des Avocats du Sénégal
 
-**Technical Architecture:**
-```
-Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
-                     ^                       ^
-              Provision parser         Verbatim database query
-```
+The international bridge tools allow you to explore these alignment relationships -- checking which Senegalese provisions correspond to ECOWAS or OHADA requirements, and vice versa.
 
-### Traditional Research vs. This MCP
-
-| Traditional Approach | This MCP Server |
-|---------------------|-----------------|
-| Search official databases by statute number | Search by plain language |
-| Navigate multi-chapter statutes manually | Get the exact provision with context |
-| Manual cross-referencing between laws | `build_legal_stance` aggregates across sources |
-| "Is this statute still in force?" --> check manually | `check_currency` tool --> answer in seconds |
-| Find EU basis --> dig through EUR-Lex | `get_eu_basis` --> linked EU directives instantly |
-| No API, no integration | MCP protocol --> AI-native |
+> **Note:** Les références internationales reflètent des relations d'alignement et d'obligation conventionnelle, pas une transposition formelle. Le Sénégal adopte sa propre approche législative.
 
 ---
 
@@ -211,7 +223,29 @@ Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
 
 All content is sourced from authoritative Senegalese legal databases:
 
-- **[Senegal Law Reports](https://senegallaw.org)** -- Official Senegalese government legal database
+- **[Journal Officiel du Sénégal](https://jo.gouv.sn/)** -- Official gazette, primary source for enacted legislation
+- **[Primature du Sénégal](https://primature.sn/publications/lois-et-reglements)** -- Prime Minister's Office law and regulation publications
+- **[Service Public du Sénégal](https://servicepublic.gouv.sn/)** -- Administrative law and regulations
+- **[Senelex](https://senelex.com/)** -- Consolidated Senegalese legal database
+
+### Data Provenance
+
+| Field | Value |
+|-------|-------|
+| **Authority** | Journal Officiel du Sénégal |
+| **Language** | French (official language of Senegalese law) |
+| **Coverage** | 71 laws across all legislative areas |
+| **Last ingested** | 2026-02-28 |
+
+### Automated Freshness Checks
+
+A GitHub Actions workflow monitors all data sources:
+
+| Check | Method |
+|-------|--------|
+| **Law amendments** | Drift detection against known provision anchors |
+| **New laws** | Comparison against official gazette index |
+| **Repealed laws** | Status change detection |
 
 **Verified data only** -- every citation is validated against official sources. Zero LLM-generated content.
 
@@ -240,11 +274,12 @@ See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
 
 > **THIS TOOL IS NOT LEGAL ADVICE**
 >
-> Statute text is sourced from official Senegalese government publications. However:
+> Statute text is sourced from the Journal Officiel du Sénégal and associated official databases. However:
 > - This is a **research tool**, not a substitute for professional legal counsel
-> - **Court case coverage is limited** -- do not rely solely on this for case law research
-> - **Verify critical citations** against primary sources for court filings
-> - **EU cross-references** are extracted from statute text, not EUR-Lex full text
+> - **Court case coverage is not included** -- do not rely solely on this for case law research
+> - **Verify critical citations** against primary sources (jo.gouv.sn) for official proceedings
+> - **International cross-references** reflect alignment relationships, not formal transposition
+> - For professional legal advice in Senegal, consult a member of the **Ordre des Avocats du Sénégal**
 
 **Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [SECURITY.md](SECURITY.md)
 
@@ -259,8 +294,8 @@ Queries go through the Claude API. For privileged or confidential matters, use o
 ### Setup
 
 ```bash
-git clone https://github.com/Ansvar-Systems/Senegal-law-mcp
-cd Senegal-law-mcp
+git clone https://github.com/Ansvar-Systems/Senegalese-law-mcp
+cd Senegalese-law-mcp
 npm install
 npm run build
 npm test
@@ -273,6 +308,20 @@ npm run dev                                       # Start MCP server
 npx @anthropic/mcp-inspector node dist/index.js   # Test with MCP Inspector
 ```
 
+### Data Management
+
+```bash
+npm run ingest              # Ingest laws from official sources
+npm run build:db            # Rebuild SQLite database
+npm run check-updates       # Check for amendments and new laws
+```
+
+### Performance
+
+- **Search Speed:** <100ms for most FTS5 queries
+- **Database Size:** ~11 MB (efficient, portable)
+- **Reliability:** 100% ingestion success rate
+
 ---
 
 ## Related Projects: Complete Compliance Suite
@@ -282,16 +331,13 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 ### [@ansvar/eu-regulations-mcp](https://github.com/Ansvar-Systems/EU_compliance_MCP)
 **Query 49 EU regulations directly from Claude** -- GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS, and more. Full regulatory text with article-level search. `npx @ansvar/eu-regulations-mcp`
 
-### [@ansvar/us-regulations-mcp](https://github.com/Ansvar-Systems/US_Compliance_MCP)
-**Query US federal and state compliance laws** -- HIPAA, CCPA, SOX, GLBA, FERPA, and more. `npx @ansvar/us-regulations-mcp`
-
 ### [@ansvar/security-controls-mcp](https://github.com/Ansvar-Systems/security-controls-mcp)
 **Query 261 security frameworks** -- ISO 27001, NIST CSF, SOC 2, CIS Controls, SCF, and more. `npx @ansvar/security-controls-mcp`
 
-### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
-**Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
+### [@ansvar/sanctions-mcp](https://github.com/Ansvar-Systems/Sanctions-MCP)
+**Offline-capable sanctions screening** -- OFAC, EU, UN sanctions lists. `pip install ansvar-sanctions-mcp`
 
-**30+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Senegal, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
+**70+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Kenya, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
 
 ---
 
@@ -300,23 +346,24 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 Priority areas:
-- Court case law expansion
-- EU cross-reference improvements
-- Historical statute versions and amendment tracking
-- Additional statutory instruments and regulations
+- Expanded legislation coverage (decrees, regulations, sub-decrees)
+- Court case law (Cour Suprême decisions)
+- Historical law versions and amendment tracking
+- OHADA uniform acts integration
 
 ---
 
 ## Roadmap
 
-- [x] Core statute database with FTS5 search
-- [x] EU/international law cross-references
+- [x] Core law database with FTS5 search
+- [x] Full corpus ingestion (71 laws, 4,946 provisions)
+- [x] International law alignment tools (CEDEAO, OHADA, UA)
 - [x] Vercel Streamable HTTP deployment
 - [x] npm package publication
 - [ ] Court case law expansion
-- [ ] Historical statute versions (amendment tracking)
-- [ ] Preparatory works / explanatory memoranda
-- [ ] Lower court and tribunal decisions
+- [ ] Expanded decree and regulation coverage
+- [ ] Historical law versions (amendment tracking)
+- [ ] OHADA uniform acts direct integration
 
 ---
 
@@ -325,12 +372,12 @@ Priority areas:
 If you use this MCP server in academic research:
 
 ```bibtex
-@software{senegal_law_mcp_2025,
+@software{senegalese_law_mcp_2026,
   author = {Ansvar Systems AB},
   title = {Senegalese Law MCP Server: AI-Powered Legal Research Tool},
-  year = {2025},
-  url = {https://github.com/Ansvar-Systems/Senegal-law-mcp},
-  note = {Senegalese legal database with full-text search and EU cross-references}
+  year = {2026},
+  url = {https://github.com/Ansvar-Systems/Senegalese-law-mcp},
+  note = {71 Senegalese laws with 4,946 provisions in French}
 }
 ```
 
@@ -342,8 +389,8 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Senegalese Government (public domain)
-- **EU Metadata:** EUR-Lex (EU public domain)
+- **Statutes & Legislation:** Journal Officiel du Sénégal (public domain)
+- **International References:** OHADA, ECOWAS (public domain)
 
 ---
 
@@ -351,7 +398,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building compliance tools has the same research frustrations.
 
-So we're open-sourcing it.
+So we're open-sourcing it. Navigating 71 Senegalese laws across the Journal Officiel and OHADA databases shouldn't take hours.
 
 **[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
 

@@ -9,6 +9,8 @@ export interface ResponseMetadata {
   jurisdiction: string;
   disclaimer: string;
   freshness?: string;
+  note?: string;
+  query_strategy?: string;
 }
 
 export interface ToolResponse<T> {
@@ -30,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Senegal Law (jo.gouv.sn) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'Journal Officiel du Sénégal (jo.gouv.sn) — République du Sénégal',
+    jurisdiction: 'SN',
     disclaimer:
-      'This data is sourced from Senegal Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Senegal Law portal (jo.gouv.sn).',
+      'This data is sourced from the Journal Officiel du Sénégal under public access principles. ' +
+      'The authoritative versions are in French. ' +
+      'Always verify with the official Journal Officiel portal (jo.gouv.sn).',
     freshness,
   };
 }

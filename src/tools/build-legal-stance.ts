@@ -97,7 +97,7 @@ export async function buildLegalStance(
 
   // LIKE fallback — last resort when all FTS5 variants return empty
   {
-    const likePattern = buildLikePattern(input.query);
+    const likePattern = buildLikePattern(sanitizeFtsInput(input.query));
     let sql = `
       SELECT
         lp.document_id,

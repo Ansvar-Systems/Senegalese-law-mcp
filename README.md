@@ -38,12 +38,12 @@ Ce serveur MCP rend le droit sénégalais **consultable, référençable et lisi
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://senegalese-law-mcp.vercel.app/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-sn/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add senegalese-law --transport http https://senegalese-law-mcp.vercel.app/mcp` |
+| **Claude Code** | `claude mcp add senegalese-law --transport http https://mcp.ansvar.eu/law-sn/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -54,7 +54,7 @@ Ce serveur MCP rend le droit sénégalais **consultable, référençable et lisi
   "mcpServers": {
     "senegalese-law": {
       "type": "url",
-      "url": "https://senegalese-law-mcp.vercel.app/mcp"
+      "url": "https://mcp.ansvar.eu/law-sn/mcp"
     }
   }
 }
@@ -67,7 +67,7 @@ Ce serveur MCP rend le droit sénégalais **consultable, référençable et lisi
   "github.copilot.chat.mcp.servers": {
     "senegalese-law": {
       "type": "http",
-      "url": "https://senegalese-law-mcp.vercel.app/mcp"
+      "url": "https://mcp.ansvar.eu/law-sn/mcp"
     }
   }
 }
